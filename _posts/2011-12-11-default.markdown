@@ -1,0 +1,23 @@
+---
+layout: accordslider
+status: publish
+published: true
+title: default
+author:
+  display_name: donbosco
+  login: donbosco
+  email: donbosco.rulz@gmail.com
+  url: ''
+author_login: donbosco
+author_email: donbosco.rulz@gmail.com
+wordpress_id: 452
+wordpress_url: http://www.azngeek.de/accordslider/default
+date: !binary |-
+  MjAxMS0xMi0xMSAwMTozODo1NSArMDEwMA==
+date_gmt: !binary |-
+  MjAxMS0xMi0xMSAwMTozODo1NSArMDEwMA==
+categories: []
+tags: []
+comments: []
+---
+

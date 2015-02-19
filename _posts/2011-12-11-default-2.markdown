@@ -1,0 +1,23 @@
+---
+layout: nivoslider
+status: publish
+published: true
+title: default
+author:
+  display_name: donbosco
+  login: donbosco
+  email: donbosco.rulz@gmail.com
+  url: ''
+author_login: donbosco
+author_email: donbosco.rulz@gmail.com
+wordpress_id: 451
+wordpress_url: http://www.azngeek.de/nivoslider/default-2
+date: !binary |-
+  MjAxMS0xMi0xMSAwMTozODo1MCArMDEwMA==
+date_gmt: !binary |-
+  MjAxMS0xMi0xMSAwMTozODo1MCArMDEwMA==
+categories: []
+tags: []
+comments: []
+---
+

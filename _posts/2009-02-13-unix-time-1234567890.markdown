@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Unix Time @ 1234567890
+author:
+  display_name: donbosco
+  login: donbosco
+  email: donbosco.rulz@gmail.com
+  url: ''
+author_login: donbosco
+author_email: donbosco.rulz@gmail.com
+wordpress_id: 211
+wordpress_url: http://blog.azngeek.de/?p=211
+date: !binary |-
+  MjAwOS0wMi0xMyAxNjowNDoxMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwOS0wMi0xMyAxNDowNDoxMiArMDEwMA==
+categories:
+- Geek Stuff
+tags:
+- Add new tag
+- UNIX Time
+- Unix
+- Greenwich Mean Time
+comments: []
+---
+<div class="zemanta-img" style="margin: 1em; display: block;">
+<div>
+<dl class="wp-caption alignright">
+<dt class="wp-caption-dt"><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;39496275@N00&#47;49613026"><img src="http:&#47;&#47;farm1.static.flickr.com&#47;31&#47;49613026_c26ac9e7c3_m.jpg" alt="1234567890" title="1234567890"><&#47;a><&#47;dt>
+<dd class="wp-caption-dd zemanta-img-attribution" style="font-size: 0.8em;">Image by <a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;39496275@N00&#47;49613026">flickroli666<&#47;a> via Flickr<&#47;dd><&#47;dl><&#47;div><&#47;div>Am Samstag, den 14. Februar 2009 um 00:31:30 (<a class="zem_slink" href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Central_European_Time" title="Central European Time" rel="wikipedia">CET<&#47;a>, also <a class="zem_slink" href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Greenwich_Mean_Time" title="Greenwich Mean Time" rel="wikipedia">GMT<&#47;a>+0100) wird laut UNIX Time genau 1234567890 Sekunden seit dem 1.1.1970, 00:00:00 GMT vergangen sein. </p>
+<p><a class="zem_slink" href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Unix_time" title="Unix time" rel="wikipedia">Unixtime<&#47;a> ist eine Angabe die die genaue Anzahl der Sekunden anzeigt, die seit dem 1.1.1970 vergangen sind.</p>
+<p><script type="text&#47;javascript" src="http:&#47;&#47;pdvel.com&#47;happy1234567890&#47;happy1234567890.js"><&#47;script></p>
+<div style="margin-top: 10px; height: 15px;" class="zemanta-pixie"><a class="zemanta-pixie-a" href="http:&#47;&#47;reblog.zemanta.com&#47;zemified&#47;2fb86f35-ed2f-48b4-8ad3-bdde8644894c&#47;" title="Zemified by Zemanta"><img style="border: medium none ; float: right;" class="zemanta-pixie-img" src="http:&#47;&#47;img.zemanta.com&#47;reblog_e.png?x-id=2fb86f35-ed2f-48b4-8ad3-bdde8644894c" alt="Reblog this post [with Zemanta]"><&#47;a><&#47;div></p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Do The Geek Test
+author:
+  display_name: donbosco
+  login: donbosco
+  email: donbosco.rulz@gmail.com
+  url: ''
+author_login: donbosco
+author_email: donbosco.rulz@gmail.com
+excerpt: Ich habe einen Geektest gemacht und das Ergebnis bzw ein Revue zum Geektest
+  findet ihr hier.
+wordpress_id: 24
+wordpress_url: http://blog.azngeek.de/?p=24
+date: !binary |-
+  MjAwOC0wNS0wNyAxNzo1Mjo0NCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOC0wNS0wNyAxNTo1Mjo0NCArMDIwMA==
+categories:
+- Geek Stuff
+tags: []
+comments: []
+---
+<p>Ich hab gerade einen lustigen Test gemacht, der meinen Geekstatus offenbaren soll. Bis jetzt habe ich mich ja wirklich einigerma&szlig;en als Geek bzw Nerd eingesch&auml;tzt. Atari 2600, NES mit Lightgun, s&auml;mtliche Rekorde bei Super Mario Kart gebrochen, alle Lucas Arts Adventures ohne Komplettl&ouml;sung, okay .. bei Grim Fandango brauchte ich Eine und das auch nur weil diese h&ouml;chst verplante 3D Steuerung daran Schuld war. Wie auch immer, meine Lieblingsfilme sind die von George Lucas und daher habe ich mich auch tierisch auf den neuen Indy 4 Trailer gefreut, den ich &uuml;brigens bei Ironman gesehen hab. Obwohl ich schon etwas &auml;lter bin lese ich ab und an immer noch Comics, nat&uuml;rlich die D&uuml;steren und ansonsten zieren popul&auml;rwissenschaftliche Magazine oder B&uuml;cher von Hawkings meine R&auml;ume. Wieviel Geek muss man eigentlich noch sein?<br />
+Dieser Geektest ist Alles Andere als wahrheitsgem&auml;&szlig;, ich fordere daher jeden auf, diesen Test zu machen und das Ergebnis als Kommentar zu posten.</p>
+<p><a title="Geektest" href="http:&#47;&#47;www.justsayhi.com&#47;bb&#47;geek" target="_blank">Link zum Test<&#47;a></p>
